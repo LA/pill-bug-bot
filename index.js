@@ -31,8 +31,8 @@ comments.on('comment', (comment) => {
     if (typeof num == 'number' && num > 0) {
       const startNum = 1;
       const returnNum = Math.floor(Math.random() * num) + startNum;
-      comment.reply('Rollie Pollie rolled a ' + returnNum + '.');
-      console.log('Rollie Pollie rolled a ' + returnNum + '.');
+      comment.reply('Rollie Pollie rolled ' + returnNum + '.');
+      console.log('Rollie Pollie rolled ' + returnNum + '.');
     }
   }
 });

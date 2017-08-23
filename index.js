@@ -14,7 +14,7 @@ const r = new Snoowrap({
 const client = new Snoostorm(r);
 
 const streamOptions = {
-  subreddit: 'testingground4bots',
+  subreddit: 'all',
   results: 25
 };
 

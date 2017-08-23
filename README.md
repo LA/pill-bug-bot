@@ -10,5 +10,5 @@
 
 ### Results In
 ```
-Rollie Pollie rolled a 24.
+Rollie Pollie rolled 24.
 ```
